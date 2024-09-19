@@ -1,6 +1,6 @@
 name: flutter_inappwebview
 description: A Flutter widget to display a webview
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/pichillilorenzo/flutter_inappwebview
 
 environment:
